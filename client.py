@@ -9,3 +9,5 @@ while not done:
         done=True
     else:
         print(mesg)
+     
+client.close()
